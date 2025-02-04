@@ -1,12 +1,12 @@
 # Python-for-beginners
-#what is python?/single comment
+#what is python?(#single line comment)
 '''python is an programming language
 it is open source
 easy to learn and use language
 cross plartform
 python is an object oriented programming language(hamro real world entity lai programming term baata implementation)
 python is an interpreted language
-'''#multi line comment
+'''(#multi line comment)
 #what is token?
 ''' token is an smallest unit of programming language python
 * keyword
